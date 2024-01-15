@@ -4,7 +4,7 @@ kobweb = "0.15.4"
 kotlin = "1.9.21"
 tailwind-kt = "0.0.4"
 shadcn = "1.0.0"
-lucide = "1.0.0"
+lucide = "1.0.1"
 
 [libraries]
 kobweb-api = { module = "com.varabyte.kobweb:kobweb-api", version.ref = "kobweb" }
